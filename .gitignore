@@ -1,0 +1,5 @@
+# Byte-compiled / temporaries
+__pycache__/
+*.py[cod]
+_temp_*.wav
+.DS_Store
