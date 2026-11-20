@@ -7,6 +7,6 @@
   - Ingeniería Civil, Análisis Estructural (NSR-10), Presupuestos y Diseño.
   - Programación (Python, JavaScript, HTML/CSS, MATLAB, Visual Basic, Bash).
 - **Campaña Prioritaria**: Aprovechar las **últimas semanas de estudio / cierre de semestre** para ofrecer acompañamiento intensivo en exámenes finales, talleres y proyectos de cierre.
-- **Regla de Comunicación (Solo Facebook en Anuncios Públicos)**:
-  - Todas las piezas publicitarias públicas (imágenes, videos y copies en Facebook) deben dirigir al interesado **únicamente por mensaje interno de Facebook (Messenger / Inbox)**.
-  - **No publicar el número de WhatsApp en los anuncios públicos**. El ingeniero suministra su número de WhatsApp (`(+57) 300 408 3940`) de forma privada dentro de la conversación por Facebook una vez el interesado escribe.
+- **Regla de Comunicación Vigente (Actualización 2026-11-20)**:
+  - Todos los avisos publicitarios, historias, videos y copies públicos de **Asesorías en Ingeniería** deben incluir de forma visible y legible el número de celular / WhatsApp **`300 408 3940`** y la página web interactiva **`asesoriaseningenieria.github.io`**, además del canal de mensaje interno de **Facebook (Messenger / Inbox)**.
+  - *(Nota histórica: anteriormente se dirigía únicamente por Facebook Messenger sin mostrar el número en anuncios; esa restricción fue reemplazada por instrucción directa del usuario para facilitar contacto inmediato por celular/WhatsApp y aprendizaje en la web).*

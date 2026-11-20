@@ -14,4 +14,4 @@
 
 ## 3. Rules & Guidelines
 1. **Preserve Legacy Flyers**: Keep original 2024 flyers (`Blue and Yellow Shapes...`, `Historia de instagram...`, `Se necesitan estudiantes...`) as historical references.
-2. **Facebook-First Communication Policy**: Public Facebook images, videos, and ad copy must invite students to write **exclusively via Facebook Messenger / Inbox**. Never display the WhatsApp number in public creatives; share `(+57) 300 408 3940` privately inside the Facebook chat once the student initiates contact.
+2. **Direct Contact & Web Portal Communication Policy (Updated 2026-11-20)**: All public advertising creatives, stories, videos, and ad copy must prominently display the phone/WhatsApp number **`300 408 3940`** and the interactive learning website **`asesoriaseningenieria.github.io`**, alongside Facebook Messenger / Inbox. *(Supersedes the earlier Messenger-only policy per user instruction.)*
